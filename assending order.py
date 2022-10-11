@@ -1,6 +1,5 @@
 a=[64,1,2,3,5,4,122,49]
 i=0
-b=[]
 while i<len(a):
     j=0
     while j<len(a):
